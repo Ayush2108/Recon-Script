@@ -31,4 +31,4 @@ cat unique-subdomains.txt | httpx -silent -ports 80,443,3000,8080,8000,8081,8008
 rm subdomain.txt
 count=$(cat live-domain.txt | wc -l)
 echo "[+] Got $count live subdomain."
-echo "by @sk4xx_"
+echo "Thank You!!! --- Hope You will get bounty"
